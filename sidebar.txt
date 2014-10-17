@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kep:home|Door43 (kep)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kep|d43-kep repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kep/archive/master.zip|d43-kep.zip]]
+
+**Recent Changes**
+{{changes>ns = kep}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kep|Ethnologue data]]
+
